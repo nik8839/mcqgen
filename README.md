@@ -1,1 +1,0 @@
-This is simple project and a trial
